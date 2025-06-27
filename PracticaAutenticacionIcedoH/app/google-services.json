@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387894211911",
+    "project_id": "ejemplologin-e078d",
+    "storage_bucket": "ejemplologin-e078d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387894211911:android:10bb38e18622d98c2b8862",
+        "android_client_info": {
+          "package_name": "icedo.hector.practicaautenticacionicedoh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZNWFdDl6pLK11oB9qswCXv8Ot3Ndjcr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
